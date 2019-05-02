@@ -188,6 +188,9 @@ Buttons
 	box-shadow: none;
 }
 
+/*****
+Images
+*****/
 .logo {
 	width: 175px;
 	height: 40px;
@@ -196,10 +199,6 @@ Buttons
 	-webkit-filter: invert(1);
 	filter: invert(1);
 }
-
-/*****
-Images
-*****/
 
 .hero {
 	margin: 80px 0 50px 50px;
@@ -290,15 +289,3 @@ Components
 	margin-top: 25px;
 	text-align: center;
 }
-
-
-
-/*******************************************/
-
-/*
-
-.about {
-	background: url(/stretch/img/about-hero.jpg) no-repeat center center;
-}
-
-*/
