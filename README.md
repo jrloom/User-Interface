@@ -1,4 +1,4 @@
-For GitHub project: Jason Loomis
+# For GitHub project: Jason Loomis
 
 # User Interface Project: Great Idea Web Page
 
